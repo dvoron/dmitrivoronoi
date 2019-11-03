@@ -1,8 +1,15 @@
+<!DOCTYPE html>
 <html>
+<head>
+<title>Page Title</title>
 </head>
 <body>
 
-
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
 </head>
 <body>
 
@@ -37,4 +44,3 @@
 <p>Link to Taltech is below.</p>
 
 <a href="https://www.ttu.ee/">this is a link to ttu</a>
-
